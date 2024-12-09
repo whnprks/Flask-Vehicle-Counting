@@ -61,12 +61,6 @@ To run the application, follow these steps:
 
 The web application features a user-friendly interface for uploading videos or images and visualizing the object detection and classification results.
 
-#### Landing Page Screenshot
-
-![Landing Page](assets/Landing_Page.png)
-
-### Outputs
-
 The following are the results obtained from testing the web application:
 
 - Object detection and classification results are displayed in real-time on the right-side panel of the web application interface.
